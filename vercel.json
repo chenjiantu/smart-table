@@ -1,0 +1,10 @@
+{
+  "headers": [
+    {
+      "source": "/baidu_verify_codeva-uopFSev55T",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    }
+  ]
+}
