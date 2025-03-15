@@ -17,6 +17,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="zh-CN" suppressHydrationWarning>
+      <head>
+  <meta name="baidu-site-verification" content="your_verify_code" />
+</head>
       <body className={`${inter.className} min-h-screen bg-background font-sans antialiased`} suppressHydrationWarning>
         {children}
       </body>
